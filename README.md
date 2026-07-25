@@ -26,4 +26,4 @@ This tool is intended to support the Choicer Voicer community as a free-to-use t
 
 **You may not:** fork, modify, or redistribute this software, sell it, or sell/paywall dub packs made with it.
 
-Licensed under [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0/). See [LICENSE](./LICENSE) for full terms.
+Licensed under [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0/). See License.md for full terms.
