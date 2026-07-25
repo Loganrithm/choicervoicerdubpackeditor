@@ -16,11 +16,12 @@ I am not affiliated with the creator of Choicer Voicer, just a fan of the game.
 Ensure You Have Python 3.14 Installed.
 
 Download the ZIP file and extract it. Double click the .exe to run it.
+Windows may warn you, click more info, then run anyways.  
 It will open a CMD back end, and launch a front end web page in your browser. 
 
 A Demo Showing How Everything Works Can Be Found Here: https://youtu.be/cUV6DbY4MJE 
 
-To Be Continued...
+Any questions or concerns please feel free to reach out to me.
 
 ## License
 This tool is intended to support the Choicer Voicer community as a free-to-use tool.
