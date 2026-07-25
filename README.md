@@ -9,15 +9,18 @@ automatically separate the background noise/music from the vocals using
 demucs, and combines it in the final output so your custom dub in
 Choicer Voicer has the original background noises.
 
+##NOTICE
+I am not affiliated with the creator of Choicer Voicer, just a fan of the game.
+
 ## Getting Started
+Ensure You Have Python 3.14 Installed.
+
 Download the ZIP file and extract it. Double click the .exe to run it.
 It will open a CMD back end, and launch a front end web page in your browser. 
 
 A Demo Showing How Everything Works Can Be Found Here: https://youtu.be/cUV6DbY4MJE 
 
 To Be Continued...
-
-
 
 ## License
 This tool is intended to support the Choicer Voicer community as a free-to-use tool.
@@ -27,3 +30,12 @@ This tool is intended to support the Choicer Voicer community as a free-to-use t
 **You may not:** fork, modify, or redistribute this software, sell it, or sell/paywall dub packs made with it.
 
 Licensed under [PolyForm Strict License 1.0.0](https://polyformproject.org/licenses/strict/1.0.0/). See License.md for full terms.
+
+## Third Party Licenses
+This tool bundles the following third parties:
+- FFmpeg
+- PyTorch
+- Demucs
+- Yt-dlp
+- Numpy
+- Flask
