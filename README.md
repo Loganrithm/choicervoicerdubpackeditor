@@ -9,7 +9,7 @@ automatically separate the background noise/music from the vocals using
 demucs, and combines it in the final output so your custom dub in
 Choicer Voicer has the original background noises.
 
-##NOTICE
+## NOTICE
 I am not affiliated with the creator of Choicer Voicer, just a fan of the game.
 
 ## Getting Started
